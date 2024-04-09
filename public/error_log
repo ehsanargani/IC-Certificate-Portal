@@ -1,0 +1,2 @@
+[26-Jul-2020 10:16:53 UTC] PHP Fatal error:  Class 'App\Http\Controllers\mPDF' not found in /home/aisirano/public_html/samane/app/Http/Controllers/report.php on line 657
+[26-Jul-2020 10:18:38 UTC] PHP Fatal error:  Call to undefined method Meneses\LaravelMpdf\Facades\LaravelMpdf::WriteHTML() in /home/aisirano/public_html/samane/app/Http/Controllers/report.php on line 663
